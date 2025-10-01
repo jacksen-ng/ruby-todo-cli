@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 module Todo
     class Store
         DEFAULT_PATH = ENV["TODO_STORE"] || File.expand_path("~/.todo.json")
