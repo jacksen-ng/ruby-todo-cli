@@ -4,10 +4,10 @@ A simple and elegant command-line TODO list manager built with Ruby. Manage your
 
 ## Features
 
-- ✅ Add tasks with due dates
-- 📋 List all tasks sorted by due date
-- 💾 Persistent storage using JSON
-- 🎯 Simple and intuitive CLI interface
+- Add tasks with due dates
+- List all tasks sorted by due date
+- Persistent storage using JSON
+- Simple and intuitive CLI interface
 
 ## Requirements
 
